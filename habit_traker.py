@@ -71,6 +71,7 @@ def main():
       elif user_2=="5":
          break
       else:
+         print("invalid choice!".title())
          continue
 
 main()
